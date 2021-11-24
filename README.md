@@ -8,12 +8,12 @@ O software do Arduino utiliza esta capacidade para permitir o envio de código n
 
 **Componentes do projeto:**
 
-Arduino Uno R3 <br/>
-Microcontrolador ATmega328 <br/>
-Sensor de Pressão modelo 2050 da linha MPX <br/>
-Bomba de Pressão de Ar KPM14A <br/>
-Válvula Eletrônica KSV05A <br/>
-Módulo Ethernet ENC28J60 para conexão com a Internet <br/>
+- Arduino Uno R3 <br/>
+- Microcontrolador ATmega328 <br/>
+- Sensor de Pressão modelo 2050 da linha MPX <br/>
+- Bomba de Pressão de Ar KPM14A <br/>
+- Válvula Eletrônica KSV05A <br/>
+- Módulo Ethernet ENC28J60 para conexão com a Internet <br/>
 
 <br/>
 <br/>
