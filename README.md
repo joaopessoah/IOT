@@ -20,7 +20,7 @@ O software do Arduino utiliza esta capacidade para permitir o envio de código n
 
 
 **OBJETOS INTELIGENTES CONECTADOS {TURMA 05A} 2021/2** <br/>
-João Filipe Pessoa Henriques TIA: 10919010291
+João Filipe Pessoa Henriques TIA: 19005741
 
 **Professor**:  <br/>
 WILIAN FRANCA COSTA
